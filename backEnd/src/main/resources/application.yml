@@ -1,1 +1,3 @@
-spring.application.name=easyOrder
+spring:
+  profiles:
+    active: dev
